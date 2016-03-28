@@ -17,7 +17,7 @@ Create one R script called run_analysis.R that does the following:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ##Raw Files:
-The row files that has been used to meet the above requirements are:
+The raw files that has been used to meet the above requirements are:
 
 * `features.txt` List of all features.
 * `activity_labels.txt` Links the class labels with their activity name.
@@ -28,5 +28,5 @@ The row files that has been used to meet the above requirements are:
 * `train/subject_train.txt` `test/subject_test.txt` Each row identifies the subject who performed the activity for each window sample. 
 
 ##Final Project Output:
-*`run_analysis.R` The R script that have been used to get `TidyData.Rda` from the above raw files.
-*`TidyData.Rda` Tidy data set with the average of each variable for each activity and each subject.
+* `run_analysis.R` The R script that have been used to get `TidyData.Rda` from the above raw files.
+* `TidyData.Rda` Tidy data set with the average of each variable for each activity and each subject.
